@@ -53,8 +53,8 @@ Os professores e colaboradores podem acompanhar o progresso do projeto através 
 ## Contato
 
 Caso tenha alguma dúvida ou sugestão, entre em contato através do email dos GPs atuais.
-- Victor Amarante [vafs@cin.ufpe.br]
-- Arthur Santos [asms@cin.ufpe.br]
+- Eduardo Matos [emfs@cin.ufpe.br]
+- Gabriel Mendonça [gmva@cin.ufpe.br]
 
 ---
 
