@@ -53,8 +53,8 @@ Os professores e colaboradores podem acompanhar o progresso do projeto através 
 ## Contato
 
 Caso tenha alguma dúvida ou sugestão, entre em contato através do email dos GPs atuais.
-- Eduardo Matos [emfs@cin.ufpe.br]
-- Gabriel Mendonça [gmva@cin.ufpe.br]
+- Mateus Ataide [mhal@cin.ufpe.br]
+- Francesca Monteiro [fcm3@cin.ufpe.br]
 
 ---
 
